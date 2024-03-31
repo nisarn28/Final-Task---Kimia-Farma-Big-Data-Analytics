@@ -61,3 +61,5 @@ LEFT JOIN
     dataset_kimia_farma.kf_product AS p ON ft.product_id = p.product_id;
 ```
 
+#### Visualisasi Data
+<img width="448" alt="daahboard" src="https://github.com/nisarn28/Final-Task---Kimia-Farma-Big-Data-Analytics/assets/165548135/bf7d5a01-bc84-4ad3-a713-11c0172771fe">
